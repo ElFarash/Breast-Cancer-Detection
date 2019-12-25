@@ -1,2 +1,2 @@
 # Breast-Cancer-Detection
-Image classification (malign or benign)
+Image classification (malignant or benign)
